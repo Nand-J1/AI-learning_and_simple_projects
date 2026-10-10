@@ -1,5 +1,5 @@
 # AI
-## This repo contains some basic implementations of Simple algorithms in Machine learning.
+## This repo contains some basic implementations of some algorithms in Machine learning and some projects.
 
 ### Folder structure
 ```text
